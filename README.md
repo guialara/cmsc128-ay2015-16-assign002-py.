@@ -1,8 +1,8 @@
 CMSC 128 Assignment AB-7L 
 -------------
 ## Bioinformatics Library written in Python
-> This Library contains specific functions that will be explained below
-> To run the library, run python in the terminal and import bioLib
+> This Library contains specific functions that will be explained below.
+> To run the library, run python in the terminal and import bioLib.
 
 ### To Run the Library:
 ```
